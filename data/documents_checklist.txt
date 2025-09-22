@@ -1,0 +1,87 @@
+# International Travel Documents Checklist
+
+## essential_documents
+Valid passport=Minimum 6 months validity from return date
+Visa=Check requirements on destination country's consulate website
+Vaccination certificate=International vaccination certificate (especially yellow fever)
+Travel insurance=Mandatory for many countries, recommended for all
+Return ticket=Proof of return or onward travel
+Financial proof=Bank statement or international credit card
+
+## recommended_documents
+International driving license=Required to rent cars abroad
+Accommodation proof=Hotel reservation or invitation letter
+International credit card=Preferably without conversion fees
+Digital copies=All documents scanned and saved in the cloud
+Passport photos=For eventual visas or emergency documents
+International student card=Discounts at museums and attractions
+Proof of ties=Work, family, property in Brazil
+
+## documents_by_region
+
+### europe
+Mandatory travel insurance=Minimum 30,000 euros medical coverage
+Proof of funds=Approximately 60 euros per day
+Passport=Valid for at least 3 months after departure date
+Schengen visa=For stays longer than 90 days
+Accommodation proof=Confirmed reservations or invitation letter
+
+### united_states
+ESTA or Visa=ESTA for tourism up to 90 days, visa for other cases
+Proof of ties=Work, family, property in Brazil
+Travel insurance=Highly recommended due to medical costs
+Electronic passport=Mandatory for visa waiver
+Financial proof=Credit card and bank statements
+
+### canada
+eTA or Visa=Electronic travel authorization or visa
+Proof of funds=Approximately 100 CAD per day
+Travel insurance=Recommended for medical coverage
+Passport=Valid throughout the stay
+Invitation letter=If applicable, from relatives or friends
+
+### asia
+Visa=Most countries require prior visa
+Vaccination certificate=Yellow fever mandatory for some countries
+Passport=Valid for at least 6 months
+Accommodation proof=Confirmed reservations
+Return ticket=Proof of departure from the country
+
+### oceania
+Electronic visa=ETA for Australia, NZeTA for New Zealand
+Proof of funds=Approximately 150 AUD/NZD per day
+Travel insurance=Highly recommended
+Passport=Valid throughout the stay
+Accommodation proof=Reservations or invitation letter
+
+### south_america
+Identity document=ID card or passport for Mercosur countries
+Vaccination certificate=Yellow fever for some countries
+Travel insurance=Recommended, mandatory for some countries
+Passport=For countries outside Mercosur
+Accommodation proof=Reservations or invitation letter
+
+### africa
+Visa=Most countries require prior visa
+Vaccination certificate=Yellow fever mandatory
+Malaria prophylaxis=Preventive medications
+Passport=Valid for at least 6 months
+Travel insurance=Highly recommended
+Accommodation proof=Confirmed reservations
+
+### middle_east
+Visa=Check specific requirements by country
+Passport=Valid for at least 6 months
+Accommodation proof=Confirmed reservations
+Travel insurance=Recommended
+Financial proof=International credit card
+Cultural restrictions=Check dress codes and behavior guidelines
+
+## important_tips
+Validity period=Check validity of all documents before travel
+Backup copies=Leave copies with family in Brazil
+Digital documents=Save in cloud and have offline access
+Consulates=Note addresses and phones of Brazilian consulates
+Emergency=Have emergency contacts always accessible
+Certified translation=For important documents in other languages
+Apostille=For documents to be used abroad

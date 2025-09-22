@@ -1,0 +1,85 @@
+# Travel Seasons Guide by Region
+
+## europe
+high_season=June - August
+shoulder_season=April-May, September-October
+low_season=November - March
+notes=Summer is more expensive and crowded. Winter has fewer daylight hours but lower prices. Spring and autumn offer the best value for money.
+best_weather=May-September
+cheapest_flights=January-March, November
+most_expensive=July-August
+crowd_level_high=June-August
+crowd_level_medium=April-May, September-October
+crowd_level_low=November-March
+
+## asia
+high_season=December - February
+shoulder_season=March-May, September-November
+low_season=June - August
+notes=Avoid monsoon season (June-September). Winter is dry and pleasant. Summer is hot and humid.
+best_weather=December-February, March-May
+cheapest_flights=June-August
+most_expensive=December-January
+crowd_level_high=December-February
+crowd_level_medium=March-May, October-November
+crowd_level_low=June-September
+
+## north_america
+high_season=June - August, December
+shoulder_season=April-May, September-November
+low_season=January-March
+notes=Summer is ideal for most regions. Winter is good for skiing. Autumn has incredible colors.
+best_weather=May-September
+cheapest_flights=January-March
+most_expensive=July, December
+crowd_level_high=June-August, December
+crowd_level_medium=April-May, September-November
+crowd_level_low=January-March
+
+## south_america
+high_season=December - March
+shoulder_season=April-May, September-November
+low_season=June - August
+notes=Seasons are inverted compared to Brazil. Summer is hot, winter can be cold in the south.
+best_weather=March-May, September-November
+cheapest_flights=May-September
+most_expensive=December-January
+crowd_level_high=December-March
+crowd_level_medium=April-May, September-November
+crowd_level_low=June-August
+
+## oceania
+high_season=December - February
+shoulder_season=March-May, September-November
+low_season=June - August
+notes=Seasons are inverted. Summer is hot, winter is mild. Great year-round for tourism.
+best_weather=March-May, September-November
+cheapest_flights=June-August
+most_expensive=December-January
+crowd_level_high=December-February
+crowd_level_medium=March-May, September-November
+crowd_level_low=June-August
+
+## africa
+high_season=May - September
+shoulder_season=March-April, October-November
+low_season=December - February
+notes=Dry season is better for safaris. Avoid heavy rain periods.
+best_weather=May-September
+cheapest_flights=January-March
+most_expensive=July-August
+crowd_level_high=June-September
+crowd_level_medium=March-May, October-November
+crowd_level_low=December-February
+
+## middle_east
+high_season=October - April
+shoulder_season=May, September
+low_season=June - August
+notes=Avoid extremely hot summer. Winter is pleasant and dry.
+best_weather=October-April
+cheapest_flights=June-August
+most_expensive=December-January, March-April
+crowd_level_high=December-March
+crowd_level_medium=October-November, April
+crowd_level_low=May-September

@@ -1,0 +1,49 @@
+Help the user find the best flight options from {{ origin if origin else 'their location' }} to {{ destination }} considering:
+
+🛫 **Origin:** {{ origin if origin else 'not specified' }}
+📍 **Destination:** {{ destination }}
+⏰ **Duration:** {{ duration if duration else 'not specified' }} days
+📅 **Vacation Month:** {{ vacation_month if vacation_month else 'not specified' }}
+💰 **Budget:** {{ budget if budget else 'flexible' }}
+🎯 **Interests:** {{ interests | join(', ') if interests else 'general activities' }}
+
+## Suggested Tasks:
+
+1. **Search available flights** from origin to destination
+2. **Analyze best times** to travel using seasonal data
+3. **Compare prices** from different airlines
+4. **Provide travel documentation guidance** based on destination
+5. **Suggest money-saving tips** (layovers, weekdays, advance booking)
+
+## Required Resources to Use:
+
+### Travel Seasons Data
+- Access `file:///data/seasons_guide.txt` to provide guidance on:
+  - Best times to visit the destination region
+  - High/low season periods and pricing
+  - Weather conditions and crowd levels
+  - Money-saving travel periods
+
+### Travel Documents Information
+- Access `file:///data/documents_checklist.txt` to advise on:
+  - Essential documents needed for the destination
+  - Region-specific requirements (visa, insurance, etc.)
+  - Recommended documents for smooth travel
+  - Important tips and preparation guidelines
+
+## Next Steps:
+
+1. **Flight Search**: Use flight search tools to find options from origin to destination
+2. **Seasonal Analysis**: Consult seasons guide to recommend optimal travel dates
+3. **Documentation**: Review documents checklist for destination-specific requirements
+4. **Alternatives**: Suggest alternative airports and flexible date options
+
+## Important Notes:
+- Always reference the travel seasons data when suggesting travel dates
+- Use the vacation month to provide targeted seasonal recommendations
+- Provide specific document requirements based on the destination region
+- Consider the traveler's origin country (Brazil) for document and visa requirements
+- Combine seasonal insights with flight pricing for optimal recommendations
+
+---
+*💡 Tip: Use the seasonal data to find the best balance between weather, prices, and crowds!*

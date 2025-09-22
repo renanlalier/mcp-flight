@@ -1,0 +1,32 @@
+🛫 **Flight Search: {{ origin }} → {{ destination }}**
+
+📅 **Departure date:** {{ departure_date }}
+{% if return_date %}📅 **Return date:** {{ return_date }}{% endif %}
+👥 **Passengers:** {{ adults }} adult(s){% if children %}, {{ children }} child(ren){% endif %}{% if infants %}, {{ infants }} infant(s){% endif %}
+
+{% if travel_class %}✈️ **Class:** {{ travel_class }}{% endif %}
+{% if currency_code %}💰 **Currency:** {{ currency_code }}{% endif %}
+{% if max_price %}💵 **Maximum budget:** {{ max_price }}{% endif %}
+{% if non_stop %}🚫 **Direct flights only:** Yes{% endif %}
+
+## Suggestions to optimize your search:
+
+1. **Date flexibility:** Try nearby dates to find better prices
+2. **Alternative airports:** Consider airports near the destination
+3. **Airlines:** Compare different carriers
+4. **Connections:** Flights with layovers can be more economical
+
+## Additional Resources for Consultation:
+
+### Seasonal Data
+- Consult `file:///data/seasons_guide.txt` for:
+  - Identify high/low season at destination
+  - Find periods with cheaper flights
+  - Assess weather conditions by season
+
+### Travel Documents
+- Consult `file:///data/documents_checklist.txt` for:
+  - Check required documents for destination
+  - Region-specific requirements
+  - Important preparation tips
+
